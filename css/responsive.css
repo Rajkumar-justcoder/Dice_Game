@@ -1,0 +1,83 @@
+@media only screen and (max-width: 769px) {
+    
+h1{
+    font-size: 4vh;
+    text-align: center;
+}
+.player1{
+    margin: 7% 0% 0% 27%;
+}
+.player2{
+    margin: 7% 0% 0% 66%;
+}
+.dice1{
+    margin: 14% 0% 0% 19%;
+}
+.dice2{
+    margin: 14% 0% 0% 58%;
+}
+.rollagain{
+
+    top: 57%;
+left: 45%;
+
+}
+.bauddhik-link{
+
+    top: 72%;
+    left: 34%;
+
+}
+.animation-circle-main {
+    
+    width: auto;
+    height: auto;
+
+  }
+
+}
+@media only screen and (max-width: 413px) {
+    
+    h1{
+        font-size: 20px;
+        text-align: center;
+    }
+    .player1{
+        margin: 7% 0% 0% 20%;
+    }
+    .player2{
+        margin: 7% 0% 0% 60%;
+    }
+    .dice1{
+        margin: 20% 0% 0% 5%;
+scale: 60%;
+
+    }
+    .dice2{
+        margin: 20% 0% 0% 45%;
+scale: 60%;
+
+    }
+    .rollagain{
+    
+        top: 52%;
+        left: 37%;
+    
+    }
+    .rollb{
+        font-size: 17px;
+    }
+    .bauddhik-link {
+        top: 79%;
+        left: 16%;
+        font-size: 25px;
+    
+    }
+    .animation-circle-main {
+        
+        width: auto;
+        height: auto;
+        
+      }
+    
+} 
