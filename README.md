@@ -1,3 +1,3 @@
 # Dice Game
 
-**Made with ❤ by StackCoder**
+**Made with ❤ by JustCoder**
